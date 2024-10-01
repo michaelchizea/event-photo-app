@@ -23,7 +23,7 @@ function HomePage() {
   return (
     <div>
       <h1>Welcome to the Event Photo App!</h1>
-      <p>Select an event to upload photos.</p>
+      <p>Select the event to upload photos.</p>
     </div>
   );
 }
